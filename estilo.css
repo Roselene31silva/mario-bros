@@ -48,4 +48,12 @@ table {
 	border-spacing: 0;
 }
 
+imagem{
+    background-image: url('imagens/imagem02.png');
+    background-size: cover;
+}
+
+
+
+
 
